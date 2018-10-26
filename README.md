@@ -1,24 +1,11 @@
-# README
+# Rails/GraphQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Devise based GraphQL API on Ruby on rails.
 
-Things you may want to cover:
+Postgres Database, Rspec based testing.
 
-* Ruby version
+Example input/output:
 
-* System dependencies
+(https://i.imgur.com/mOrNaju.png)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+(https://i.imgur.com/AMpuXYa.png)
